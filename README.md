@@ -17,7 +17,7 @@ date_default_timezone_set('Asia/Kolkata');<br>
  $result= mysqli_query($link, $query);<br>
  
  
-while($r = mysqli_fetch_assoc($result)) {
-    $rows[] = $r;
-}
-print json_encode($rows);
+while($r = mysqli_fetch_assoc($result)) <br>{
+    $rows[] = $r;<br>
+}<br>
+print json_encode($rows);<br>
