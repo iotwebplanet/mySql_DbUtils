@@ -40,23 +40,12 @@ CREATE TABLE `student_hostel` (
 --
 
 INSERT INTO `student_hostel` (`hostel_name`, `hostel_description`, `hostel_wardenid`, `hostel_attandent`) VALUES
-('\'A\' Block Hostel', 'B.Sc.(Ag.)', '', 'Rajesh '),
-('\'B\' Block Hostel', 'B.Sc.(Ag.)', '', 'Siddiqui'),
-('C.V. Raman Hostel', 'M.Sc.(Ag.) ', '', 'Ram Gopal'),
-('Day Scholar', 'Day Scholar', '', 'Day Schola'),
-('DR. APJ Abdul Kalam Hoste', 'M.Sc.(Ag.) & ABM', '', 'Chandrbhan'),
-('Godawari Hostel', 'M.Sc.(Home Science) ', '', 'Chandrbhan'),
-('J.C. Bose Hostel', 'B.Sc(Ag.)', '', 'Ram Gopal'),
-('Jhalkari Bai Hostel', 'B.Sc(Ag.)', '', 'Chandrbhan'),
-('Karpoori Thakur Hostel', 'B.Sc(Ag.)', '', 'Vinay Kr.'),
-('Old PG Hostel', 'Ph.D.', '', 'Rajendra '),
-('Patel Hostel', 'Ph.D. & M.Sc.(Ag)', '', 'Rajendra '),
-('RSRP Hostel', 'B.Sc.(Ag)', '', 'Ram Gopal'),
-('Sarojani Naydu', 'B.Sc(Home Science)', '', 'Ram Prasad'),
-('Shatabdi Hostel', 'M.Sc.(Ag.) ', '', 'Arjun'),
-('Shram Jeevi Hostel', 'Ph.D. ', '', 'Chandrbhan'),
-('Subhas Chandra Bose', 'B.Sc(Ag.)', '', 'Vinay Kr.'),
-('Tilak Hostel', 'B.Sc(Ag.)', '', 'Chandrbhan');
+('\'A\' Block Hostel', 'B.Sc.(Ag.)', '', 'Rmesh '),
+('\'B\' Block Hostel', 'B.Sc.(Ag.)', '', 'Fiqui'),
+('C.V. Raman Hostel', 'M.Sc.(Ag.) ', '', 'Gopal'),
+('Shram Jeevi Hostel', 'Ph.D. ', '', 'Murli'),
+('Subhas Chandra Bose', 'B.Sc(Ag.)', '', 'Kumar'),
+('Tilak Hostel', 'B.Sc(Ag.)', '', 'Bhanu');
 
 --
 -- Indexes for dumped tables
